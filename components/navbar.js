@@ -54,7 +54,7 @@ const Navbar = props => {
         <Box flex={1} align="right">
           <ThemeToggleButton />
 
-          <Box ml={2} display={{ base: 'inline-block', md: 'none' }}>
+          {/* <Box ml={2} display={{ base: 'inline-block', md: 'none' }}>
             <Menu isLazy id="navbar-menu">
               <MenuButton
                 as={IconButton}
@@ -62,13 +62,8 @@ const Navbar = props => {
                 variant="outline"
                 aria-label="Options"
               />
-              <MenuList>
-                <NextLink href="/" passHref>
-                  <MenuItem as={Link}>About</MenuItem>
-                </NextLink>
-              </MenuList>
             </Menu>
-          </Box>
+          </Box> */}
         </Box>
       </Container>
     </Box>

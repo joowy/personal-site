@@ -97,7 +97,7 @@ const Home = () => (
               src="/images/me.jpg"
               alt="Profile image"
               borderRadius="full"
-              width="110%"
+              width="150%"
               height="150%"
             />
           </Box>
