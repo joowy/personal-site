@@ -38,7 +38,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Joseph Stout
           </Heading>
-          <p>Software Engineer (Back-end / Cloud / DevOps)</p>
+          <p>Software Engineer - Cloud - DevOps</p>
 
           <Stack mt={4} spacing={4} direction="row" align="center">
             <Link
