@@ -17,14 +17,9 @@ const Main = ({ children, router }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="Joey's homepage" />
         <meta name="author" content="Joey Stout" />
-        <meta name="author" content="craftzdog" />
+        <meta name="author" content="joowy" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-        <meta name="twitter:title" content="Joey Stout" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@craftzdog" />
-        <meta name="twitter:creator" content="@craftzdog" />
-        <meta name="twitter:image" content="https://www.craftz.dog/card.png" />
         <meta property="og:site_name" content="Joey Stout" />
         <meta name="og:title" content="Joey Stout" />
         <meta property="og:type" content="website" />
