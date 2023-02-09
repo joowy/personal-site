@@ -29,8 +29,9 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I am a fourth-year student studying data science at Pennsylvania
-        State University.
+        Hello, I am a alumni of Pennsylvania State University, where I earned my
+        degree in Computational Data Sciences. Currently working as a Software
+        Engineer at Capital One.
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -38,7 +39,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Joseph Stout
           </Heading>
-          <p>Software Engineer - Cloud - DevOps</p>
+          <p>Software Engineer @ Capital One </p>
 
           <Stack mt={4} spacing={4} direction="row" align="center">
             <Link
@@ -97,8 +98,8 @@ const Home = () => (
               src="/images/me.jpg"
               alt="Profile image"
               borderRadius="full"
-              width="150%"
-              height="150%"
+              width="100"
+              height="100"
             />
           </Box>
         </Box>
